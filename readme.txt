@@ -1,1 +1,2 @@
-This is git version control
+This is git version control.
+add GPL.
